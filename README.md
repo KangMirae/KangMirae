@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Mirae
 
-<!--
-**KangMirae/KangMirae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused developer learning and building with **Python** and **Django REST Framework**.  
+I like turning messy requirements into clear APIs and readable code.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Backend:** Python, Django, Django REST Framework
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Docker
+- **Currently improving:** Testing, API design, clean architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- **Vehicle Rental System** — Web-based REST API with reservation validation and ownership rules  
+  *Repo:* https://github.com/Bootcamp-IA-P6/Proyecto2_CRUD_Equipo5
+- **Taximeter App** — Mobile-first web application for fare calculation with structured configuration  
+  *Repo:* https://github.com/Bootcamp-IA-P6/Proyecto1_Mirae_Kang
+- **DRF Blog API** — Web application with authentication, CRUD, and API-first workflow  
+  *Repo:* https://github.com/KangMirae/drf-blog-v2
+
+### 🌱 What I'm working on now
+- Building portfolio-ready projects with solid documentation
+- Practicing algorithms in Python (steady and consistent)
+
+### 📫 Contact
+- LinkedIn: www.linkedin.com/in/kangmirae
