@@ -1,31 +1,12 @@
-# 👋 Hi, I'm Mirae
+# 🚀 Backend Engineer | Python & Django
 
-**Backend Developer** focused on building clean, efficient APIs with **Python & Django**.
-Currently expanding my expertise into **Data Engineering & AI**.
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+## 🏗 Learning & Focus
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### 🛠 Tech Stack
-- **Backend:** Python | Django | DRF
-- **Database:** MySQL | PostgreSQL
-- **Data/AI:** Pandas | Web Scraping | Machine Learning (Learning)
-- **Tools:** Git | Docker | Linux
 
 ---
-
-### 📌 Featured Projects
-- **[Vehicle Rental](https://github.com/Bootcamp-IA-P6/Proyecto2_CRUD_Equipo5)**: REST API with reservation logic.
-- **[Taximeter App](https://github.com/Bootcamp-IA-P6/Proyecto1_Mirae_Kang)**: Real-time fare calculation web.
-- **[DRF Blog](https://github.com/KangMirae/drf-blog-v2)**: API-first blog system.
-
----
-
-### 🌱 What I'm Up To
-- Integrating AI models into backend services.
-- Automating data collection via Web Scraping.
-- Improving code readability & API documentation.
-
----
-
-### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/kangmirae/)
+### 🖥 Main Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangMirae&layout=compact&theme=radical&hide_border=true)
