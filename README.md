@@ -1,25 +1,31 @@
-## Hi, I'm Mirae
+# 👋 Hi, I'm Mirae
 
-I'm a backend-focused developer learning and building with **Python** and **Django REST Framework**.  
-I like turning messy requirements into clear APIs and readable code.
+**Backend Developer** focused on building clean, efficient APIs with **Python & Django**.
+Currently expanding my expertise into **Data Engineering & AI**.
+
+---
 
 ### 🛠 Tech Stack
-- **Backend:** Python, Django, Django REST Framework
-- **Database:** MySQL, PostgreSQL
-- **Tools:** Git, GitHub, Docker
-- **Currently improving:** Testing, API design, clean architecture
+- **Backend:** Python | Django | DRF
+- **Database:** MySQL | PostgreSQL
+- **Data/AI:** Pandas | Web Scraping | Machine Learning (Learning)
+- **Tools:** Git | Docker | Linux
+
+---
 
 ### 📌 Featured Projects
-- **Vehicle Rental System** - Web-based REST API with reservation validation and ownership rules  
-  *Repo:* https://github.com/Bootcamp-IA-P6/Proyecto2_CRUD_Equipo5
-- **Taximeter App** - Mobile-first web application for fare calculation with structured configuration  
-  *Repo:* https://github.com/Bootcamp-IA-P6/Proyecto1_Mirae_Kang
-- **DRF Blog API** - Web application with authentication, CRUD, and API-first workflow  
-  *Repo:* https://github.com/KangMirae/drf-blog-v2
+- **[Vehicle Rental](https://github.com/Bootcamp-IA-P6/Proyecto2_CRUD_Equipo5)**: REST API with reservation logic.
+- **[Taximeter App](https://github.com/Bootcamp-IA-P6/Proyecto1_Mirae_Kang)**: Real-time fare calculation web.
+- **[DRF Blog](https://github.com/KangMirae/drf-blog-v2)**: API-first blog system.
 
-### 🌱 What I'm working on now
-- Building portfolio-ready projects with solid documentation
-- Practicing algorithms in Python (steady and consistent)
+---
+
+### 🌱 What I'm Up To
+- Integrating AI models into backend services.
+- Automating data collection via Web Scraping.
+- Improving code readability & API documentation.
+
+---
 
 ### 📫 Contact
-- LinkedIn: www.linkedin.com/in/kangmirae
+[LinkedIn](https://www.linkedin.com/in/kangmirae/)
