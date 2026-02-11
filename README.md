@@ -3,7 +3,3 @@
 
 ## Learning & Focus
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
-
----
-### Main Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KangMirae&layout=compact&theme=radical&hide_border=true)
